@@ -26,4 +26,6 @@ header .row{
 
 body{
 	background-color: grey;
+	background-size: cover;
+	margin: 0;
 }
