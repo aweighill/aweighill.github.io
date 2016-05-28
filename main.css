@@ -1,4 +1,10 @@
-h1{
-	color: chocolate;
-	font-family: serif;
+header h1{
+	color: green;
+	font-family: "Times New Romans";
+	margin: 0;
+}
+
+header nav{
+	display: flex;
+	justify-content: flex-end;
 }
