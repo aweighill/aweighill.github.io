@@ -5,6 +5,11 @@ header h1{
 }
 
 header nav{
+	font-size: 12px;
 	display: flex;
 	justify-content: flex-end;
+}
+
+header .row{
+	display: flex;
 }
