@@ -12,4 +12,5 @@ header nav{
 
 header .row{
 	display: flex;
+	align-items: center;
 }
