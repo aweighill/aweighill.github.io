@@ -3,9 +3,10 @@ header{
 }
 
 header h1{
-	color: green;
+	color: white;
 	font-family: "Times New Romans";
 	margin: 0;
+	text-shadow: black;
 }
 
 header nav{
