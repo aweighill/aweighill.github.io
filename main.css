@@ -23,3 +23,7 @@ header .row{
 	display: flex;
 	align-items: center;
 }
+
+body{
+	background-color: grey;
+}
