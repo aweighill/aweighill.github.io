@@ -1,3 +1,7 @@
+header{
+	padding: 20px;
+}
+
 header h1{
 	color: green;
 	font-family: "Times New Romans";
@@ -5,7 +9,7 @@ header h1{
 }
 
 header nav{
-	font-size: 12px;
+	font-size: 24px;
 	display: flex;
 	justify-content: flex-end;
 }
