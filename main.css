@@ -2,8 +2,7 @@ header{
 	margin: 0;
 	padding: 20px 0;
 	background-color: black;
-	border: 5px;
-	border-color: red;
+	border: 5px solid red;
 	color: white;
 }
 
@@ -35,6 +34,7 @@ body{
 }
 
 body .row a{
+	display: flex;
 	color: white;
 	text-decoration: none;
 }
