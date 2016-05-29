@@ -3,7 +3,8 @@ header{
 	margin: 0 auto;
 	padding: 20px 0;
 	background-color: black;
-	border-width: 0 0 1px 0;
+	border-width: 0 0 2px 0;
+	border-style: solid;
 	border-color: red;
 	color: white;
 }
@@ -43,4 +44,5 @@ body .row a{
 
 footer {
 	background-color: black;
+	padding: 20px;
 }
