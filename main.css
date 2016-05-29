@@ -45,4 +45,6 @@ body .row a{
 footer {
 	background-color: black;
 	padding: 20px;
+	display: flex;
+	
 }
