@@ -7,6 +7,11 @@ header{
 	color: white;
 }
 
+header .container{
+	overflow: hidden;
+	width: 100%;
+}
+
 header h1{
 	font-family: "Times New Romans";
 	margin: 0;
