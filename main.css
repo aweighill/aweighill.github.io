@@ -1,12 +1,13 @@
 header{
 	padding: 20px 0;
+	background-color: black;
+	border-color: red;
+	color: white;
 }
 
 header h1{
-	color: white;
 	font-family: "Times New Romans";
 	margin: 0;
-	text-shadow: black;
 }
 
 header nav{
@@ -16,7 +17,7 @@ header nav{
 }
 
 header p{
-	padding: 0 20px;
+	padding: 0 15px;
 	margin: 0;
 }
 
@@ -29,4 +30,9 @@ body{
 	background-color: grey;
 	background-size: cover;
 	margin: 0;
+}
+
+body .row a{
+	color: white;
+	text-decoration: none;
 }
